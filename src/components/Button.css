@@ -1,0 +1,27 @@
+.some-button {
+    border-radius: 50% !important;
+    margin-left:10px;
+    height: 80px;
+    width: 80px;
+    background-color: #62da62;
+    font-size: 55px;
+    position:relative;
+    
+    margin-top:-158%;
+     top: 102%;
+    left: 45%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  /* bring your own prefixes */
+  transform: translate(-50%, 56%);
+
+  }
+  
+  .flex-center-wrapper {
+    display: flex;
+    justify-content: center; /* center horizontally */
+    align-items: center; /* center vertically */
+  }
+
+  

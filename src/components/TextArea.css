@@ -1,0 +1,13 @@
+.textform-container{
+    position: absolute;
+    width:350px;
+    margin: -5% 5% 15% 5%;
+
+}
+.textform{
+    width:100%;
+    border-radius: 5px;
+    background-color:#62da62;
+    opacity: 0.75;
+    padding: 10px
+}

@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+.form-check-input {
+  font-size: 70px;
+}
+.todo {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+
+.strike {
+  color: gray !important;
+}
+.customcircle {
+  color:  #62da62 !important;
+}
+.gray {
+  color: gray !important;
+}
